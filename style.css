@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+/* Centered Image */
+.center-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.center-image {
+  width: 70%;
+  max-width: 400px;
+  border-radius: 10px;
+}
+
+/* Other images */
+img {
+  width: 100%;
+  max-width: 400px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
